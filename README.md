@@ -8,4 +8,4 @@ Install packages
   !pip install -U setuptools wheel
   !pip install -U "mxnet<2.0.0" bokeh==2.0.1
   !pip install autogluon --no-cache-dir
-  # Without --no-cache-dir, smaller aws instances may have trouble installing
+  # Without --no-cache-dir, smaller aws instances may have trouble installing.
